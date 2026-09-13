@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Locally obtained/generated patchers
+apply_pgr_240fps.py
+pgr_classic_camera.py
+
+# Backups and game assets
+backups/
+classic-backups*/
+*.bak
+*.uab
+*.ab
+
+# Logs / research / dumps
+*.log
+pgr-camera-probe*.txt
+pgr-camera-dump/
+dump/
+dumps/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
