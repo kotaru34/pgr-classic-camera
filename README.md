@@ -13,6 +13,13 @@ PGR Classic Camera replaces the normal combat camera feel with a more convention
 >
 > The author and contributors are not responsible for bans, account loss, lost progress, corrupted files, or any other damage resulting from use of this project.
 
+## Demo
+
+[![Watch: Stock Camera vs Classic Camera](https://img.youtube.com/vi/kZZdpNQn-Yo/maxresdefault.jpg)](https://www.youtube.com/watch?v=kZZdpNQn-Yo)
+
+**[Watch on YouTube](https://www.youtube.com/watch?v=kZZdpNQn-Yo)**  
+Classic Camera is enabled at **0:16**.
+
 ## Features
 
 - Toggleable **Classic Camera** mode
